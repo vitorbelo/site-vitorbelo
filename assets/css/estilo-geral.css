@@ -1,0 +1,42 @@
+/* Geral */
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', Helvetica, sans-serif;
+    color: azure;
+    background-color: rgb(0, 0, 10);
+}
+
+h1, h2, h3 {
+	margin: 0;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+}
+p {
+	margin: 5px 0;
+	font-size: 12pt;
+}
+a {
+	text-decoration: none;
+	color: #009966;
+}
+ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+.sobre-mim {
+    display: inline-block;
+    padding: 30px 0;
+    margin-left: 30px;
+    margin-right: 30px;
+    text-align: center;
+}
+
